@@ -1,17 +1,22 @@
-Repo for Advent of Code and other julekalendarar <3 
+# Julekalendarar 🎄
 
+Repo for **Advent of Code** og andre julekalendrar, løyst i C# / .NET.
+
+## Prosjektstruktur
+
+```text
 Julekalendarar/
+├── adventOfCode/
+│   ├── Day1.cs
+│   └── Day2.cs
 │
 ├── input/
+│   ├── adventOfCode/
 │   └── knowit/
-│       ├── knowit_Dag1_input.txt
-│       └── ...
 │
 ├── Knowit/
-│   └── Knowit.cs       # Løysingsklasse for Knowit-oppgåver
+│   ├── Knowit.cs
+│   └── Day2.cs
 │
-├── Day1.cs             # (valfritt) Andre oppgåver du jobbar med
-├── Day2.cs             # (valfritt)
-│
-├── Program.cs          # Kallar valfri løysing/metode
+├── Program.cs
 └── README.md
