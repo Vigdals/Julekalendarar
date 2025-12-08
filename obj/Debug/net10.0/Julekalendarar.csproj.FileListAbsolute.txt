@@ -1,0 +1,14 @@
+C:\Project\Julekalendarar\bin\Debug\net10.0\Julekalendarar.exe
+C:\Project\Julekalendarar\bin\Debug\net10.0\Julekalendarar.deps.json
+C:\Project\Julekalendarar\bin\Debug\net10.0\Julekalendarar.runtimeconfig.json
+C:\Project\Julekalendarar\bin\Debug\net10.0\Julekalendarar.dll
+C:\Project\Julekalendarar\bin\Debug\net10.0\Julekalendarar.pdb
+C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.AssemblyInfoInputs.cache
+C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.AssemblyInfo.cs
+C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.csproj.CoreCompileInputs.cache
+C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.dll
+C:\Project\Julekalendarar\obj\Debug\net10.0\refint\Julekalendarar.dll
+C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.pdb
+C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.genruntimeconfig.cache
+C:\Project\Julekalendarar\obj\Debug\net10.0\ref\Julekalendarar.dll
