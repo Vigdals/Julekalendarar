@@ -1,5 +1,8 @@
-﻿using Julekalendarar;
+﻿using System.Net.WebSockets;
+using System.Text;
+using Julekalendarar;
 using Julekalendarar.Knowit;
+using Julekalendarar.Kode24;
 
 // get base directory of the project
 var baseDir = AppContext.BaseDirectory;
@@ -21,5 +24,9 @@ var inputKnowItFile = Path.Combine(projectDir, "input\\knowit\\knowit_Dag1_input
 var solver = new KnowitSolver(inputKnowItFile);
 string key = solver.SolveDay1();
 
-Console.WriteLine("Knowit Dag 1 – nøkkel:");
+//Console.WriteLine("Knowit Dag 1 – nøkkel:");
 Console.WriteLine(key);
+
+
+// kode24
+await NisseSocketClient.RunAsync();

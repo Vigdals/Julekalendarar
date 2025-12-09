@@ -12,3 +12,4 @@ C:\Project\Julekalendarar\obj\Debug\net10.0\refint\Julekalendarar.dll
 C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.pdb
 C:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.genruntimeconfig.cache
 C:\Project\Julekalendarar\obj\Debug\net10.0\ref\Julekalendarar.dll
+c:\Project\Julekalendarar\obj\Debug\net10.0\Julekalendarar.sourcelink.json
