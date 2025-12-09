@@ -50,14 +50,14 @@ namespace Julekalendarar.Kode24
         }
 
 
-        public static async Task OldCode(string[] args)
+        public static async Task OldCode()
         {
             using var ws = new ClientWebSocket();
             await ws.ConnectAsync(new Uri("wss://nisseserver-1.onrender.com/…"), CancellationToken.None);
 
             //var payload = Encoding.UTF8.GetBytes("43543113133");
             //var payload = Encoding.UTF8.GetBytes("{\"kake\":\"fattigmann\"}");
-            var payload = Encoding.UTF8.GetBytes("{\"fattigmann\":\"1\"}");
+            var payload = Encoding.UTF8.GetBytes("fattigmann");
             await ws.SendAsync(payload, WebSocketMessageType.Text, true, CancellationToken.None);
 
             // var buffer = new byte[1024];
