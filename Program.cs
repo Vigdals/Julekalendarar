@@ -30,4 +30,4 @@ Console.WriteLine(key);
 
 // kode24
 //await NisseSocketClient.RunAsync();
-await NisseSocketClient.OldCode();
+//await NisseSocketClient.OldCode();

@@ -17,6 +17,11 @@ Julekalendarar/
 ├── Knowit/
 │   ├── Knowit.cs
 │   └── Day2.cs
+|
+├── kode24/
+│   └── Day2.cs
+│
+| Kode24.cs
 │
 ├── Program.cs
 └── README.md

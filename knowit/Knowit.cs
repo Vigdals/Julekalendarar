@@ -19,7 +19,10 @@ namespace Julekalendarar.Knowit
             var queue = new Queue<string>();
             var sb = new StringBuilder();
 
-            
+            foreach (var line in File.ReadLines(_inputPath))
+            {
+                Console.WriteLine(line);
+            }
 
             return sb.ToString();
         }

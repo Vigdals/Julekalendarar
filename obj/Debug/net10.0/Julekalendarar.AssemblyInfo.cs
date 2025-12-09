@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Julekalendarar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e9e8e5adc870280ab19e5e949dc75f06e0b9543")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4864afebf70e7985870a1ab1f5ab5726d9abbe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Julekalendarar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Julekalendarar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

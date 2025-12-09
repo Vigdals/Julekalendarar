@@ -59,12 +59,7 @@ namespace Julekalendarar.Kode24
             //var payload = Encoding.UTF8.GetBytes("{\"kake\":\"fattigmann\"}");
             var payload = Encoding.UTF8.GetBytes("fattigmann");
             await ws.SendAsync(payload, WebSocketMessageType.Text, true, CancellationToken.None);
-
-            // var buffer = new byte[1024];
-            // var result = await ws.ReceiveAsync(buffer, CancellationToken.None);
-            // var response = Encoding.UTF8.GetString(buffer, 0, result.Count);
-
-            // Console.WriteLine("Velkommen mesling: " + response);
+            
             var buffer = new byte[1024];
 
             while (true)
